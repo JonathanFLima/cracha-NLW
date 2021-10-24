@@ -117,6 +117,10 @@ ul {
     height: 100vh;
   }
 
+  .container {
+    margin-top: 10rem;
+  }
+
   .quebra {
     display: none;
   }
